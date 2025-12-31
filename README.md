@@ -1,6 +1,6 @@
-# SplitWise
+# SpendWise
 
-SplitWise is a **full-stack personal finance management app** built with **React (frontend), Node.js/Express (backend), MongoDB (database)**, and enhanced with **Google Gemini AI for OCR-based receipt scanning**. It helps users track income, expenses, receipts, and visualize financial analytics via charts.
+SpendWise is a **full-stack personal finance management app** built with **React (frontend), Node.js/Express (backend), MongoDB (database)**, and enhanced with **Google Gemini AI for OCR-based receipt scanning**. It helps users track income, expenses, receipts, and visualize financial analytics via charts.
 
 ## Features
 
@@ -90,7 +90,7 @@ Before cloning, make sure to fork the repository to your GitHub account.
 ### Clone your fork
 
 ```bash
-git clone https://github.com/your-username/SplitWise.git
+git clone https://github.com/your-username/SpendWise.git
 cd paisable
 ```
 
@@ -206,3 +206,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 Developed by [**Archa**](https://github.com/archa8)
+
