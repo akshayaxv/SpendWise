@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://SpendWise.netlify.app/sitemap.xml
